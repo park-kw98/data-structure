@@ -1,0 +1,21 @@
+1. list
+
+2. stack queue
+
+3. tree 
+
+4. bst 
+
+5. heap
+
+6. avl
+
+7. b-tree
+
+8. sort
+
+9. hash
+
+10. graph
+
+11. dijkstra
